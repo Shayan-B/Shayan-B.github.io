@@ -4,6 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   An Enthusiastic Data Scientist
 
 github_username:  Shayan-B
+linkedin_username: shayan-bastani
 
 # Build settings
 theme: jekyll-theme-minimal
