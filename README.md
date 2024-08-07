@@ -1,6 +1,3 @@
-# Shayan Bastani' Portfolio
-
-<!--## Hi there 👋-->
 # Data Scientist
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -10,15 +7,10 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-FF4500?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
-[![LightGBM](https://img.shields.io/badge/LightGBM-017DC3?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-00599C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
-[![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python-requests.org/en/master/)
-[![CVXPY](https://img.shields.io/badge/CVXPY-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.cvxpy.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 Welcome to my GitHub profile! I am a dedicated Data Science enthusiast with a good background in Python, R, and various data analysis and machine learning libraries. My passion lies in turning data into actionable insights and developing robust models that solve real-world problems.
 
@@ -73,4 +65,4 @@ Feel free to connect with me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-bastani/)
 
 
-Thank you for visiting my profile. Happy coding! 😊
+Thank you for visiting my Website.
