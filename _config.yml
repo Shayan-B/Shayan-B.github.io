@@ -1,7 +1,7 @@
 title: Shayan Bastani's Portfolio
 email: sh.cnct@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An Anthusiastic Data Scientist
+  An Enthusiastic Data Scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,3 +10,4 @@ github_username:  Shayan-B
 # Build settings
 theme: jekyll-theme-minimal
 show_downloads: false
+logo: /assets/img/shayan.png

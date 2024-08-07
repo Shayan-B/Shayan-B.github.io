@@ -1,7 +1,7 @@
 # Shayan Bastani' Portfolio
 
 <!--## Hi there 👋-->
-# 💻 Hello, This is Shayan, A Data Science Enthusiast
+# Data Scientist
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -23,8 +23,6 @@
 Welcome to my GitHub profile! I am a dedicated Data Science enthusiast with a good background in Python, R, and various data analysis and machine learning libraries. My passion lies in turning data into actionable insights and developing robust models that solve real-world problems.
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Shayan-B&show_icons=true&locale=en&theme=tokyonight" alt="Shayan-B" /></p>
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shayan-B&show_icons=true&locale=en&layout=compact&theme=chartreuse-white)
 
 ## 👨‍🔬 About Me
 
